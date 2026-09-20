@@ -6,6 +6,8 @@ This project investigates machine learning classification of industrial robot ta
 
 The goal is to predict the robot task type based on robot measurements and network conditions.
 
+This was practise to the exam, so below is an extensive analysis of the code and findings to help work towards the exam.
+
 Methods used:
 
 * Pearson Correlation
